@@ -26,7 +26,12 @@
 - [X] - How to lead when you're not in charge
 - [X] - The pragmatic programer
 
+# Interviews
+
+- [ ] - System Design Interview - An insider's guide [🔗][system-design-interview]
+
 [clean-code-link]: https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=23HHBAB59GK64&dib=eyJ2IjoiMSJ9.MeQLPU5r9G7JW-j-yQJD7C3cmIkKCtTzcs1d_lwsbfgCVElR-SUvGobqqdlFbHLo49u_WsP-A8FPcq_lQBlc4tILNyEku2-5My_6zCWxwX3-51VsmopYN2UptrmAtOlCmjojCyOmvlj3i_6EFcxh6ieNKdeXYHp_CuR2vBu8V7EJJzBCn_czw6DjmmTwP72F7H952ARQOpofFSScU_YsaNN3S10H7LStkd_1nkdoXOlS2zp4INal1SlOKZw6viK_GLbqo6Kt1vZ-BBfEi3pad5RH54CC-SJBF9ozBdnVpYg.rwT0EBS0GAvNXy2ocCWHdhgL0jmbMUMnS3ZMMwrmasA&dib_tag=se&keywords=clean+code&qid=1724855527&sprefix=clean+cod,aps,80&sr=8-1
 [refactoring-kb]: https://www.amazon.com/gp/product/0134757599?camp=1789&creative=9325&creativeASIN=0134757599
 [tdd-by-example]: https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530
 [c++-with-tdd]: https://www.amazon.com/Modern-Programming-Test-Driven-Development-Better/dp/1937785483
+[system-design-interview]: https://www.amazon.fr/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3M4SSH1DTK0YF&dib=eyJ2IjoiMSJ9.CZwZ7txhICEtME2JuLCqj9Bkde4opffmKt_uE1rHfEJJPye5Uteeqk1qBDfQ8_8zhMtih4GQU7wnO4sJzI4B5zx9zij83KO3oeg2EmuoBHxVqGY1D0PCiSlMBv3h-IjPth0hX68pQDgEpGEdk2mtfkdQX8lUhXTSJ9KmbZn83BE5IxQpEeC2La-B3g2IVFSY7vu-HmAtH_d-gECtz6uJU-ATXQNdYBrgOeFbnmSGQwFtWqJxVG7PBEuQ1sWUhLxw8par17IJ2evGQ3vxTh4i-wPdikQ4Svu8Ge1_fWKY-wU.du-JwCR1-qJ64-mzwcdz7RILG7I3Q6JYS3hLfh8gPCo&dib_tag=se&keywords=system+design+interview&qid=1725270471&sprefix=system+design+inteview,aps,83&sr=8-1
